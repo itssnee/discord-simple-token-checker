@@ -1,8 +1,8 @@
+![image](https://media.discordapp.net/attachments/1023911532108709898/1050507164990582934/image.png?width=823&height=432)
+
 # Disclaimer
 Please don't use this code for any illegal purposes, I made this programm for fun and it shouldn't be abused, I am not responsible for the user's actions, this project is just a normal project to learn coding. Please don't skid or remake this project
 Plus skidding won't make you cool or a coder :)
-
-![image](https://media.discordapp.net/attachments/1023911532108709898/1050507164990582934/image.png?width=823&height=432)
 
 # Discord Token Checker
 This is a simple python discord token checker I am gonna release for free, I got inspired by some other projects but made all by myself with another person (Sens#9448), my Discord Name and Tag is Snee#1337, please don't ask me via discord if you need help.
