@@ -1,5 +1,5 @@
 # Disclaimer
-Please don't skid or remake this project
+Please don't use this code for any illegal purposes, I made this programm for fun and it shouldn't be abused, I am not responsible for the user's actions, this project is just a normal project to learn coding. Please don't skid or remake this project
 Plus skidding won't make you cool or a coder :)
 
 ![image](https://media.discordapp.net/attachments/1023911532108709898/1050507164990582934/image.png?width=823&height=432)
