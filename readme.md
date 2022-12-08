@@ -14,17 +14,18 @@ I am gonna do a massive update at 25 stars and prob a massive gui update after 5
 
 # How to install/use
 Step 1: Download via this link: https://github.com/itssnee/discord-simple-token-checker/archive/refs/heads/main.zip
-Step 2: Make sure you already downloaded python (https://www.python.org/)
-Step 3: Put your tokens into tokens.txt
-Step 4: run checker.exe
-Step 5: enjoy
+Step 2: Make sure you already downloaded python (https://www.python.org/).
+Step 2 and a half: if you have a problem with the modules please run requirements.bat before starting the checker.py :]
+Step 3: Put your tokens into tokens.txt.
+Step 4: double left click checker.py.
+Step 5: enjoy.
 
 # Why is there no source code?
 since many ppl would sell it and I don't want people to just replace my discord name and tag with their discord name and tag.
 if you think this is a virus you can check it with https://virustotal.com/
-Source Code will maybe release in the future
+Source Code will maybe release in the future.
 
 # Credits
-Made by Snee#1337 (I am Snee) and Sens#9448
-https://discord.gg/WUjKp3ExC6
-My only discord id is 324198046504189953
+Made by Snee#1337 (I am Snee) and Sens#9448.
+https://discord.gg/WUjKp3ExC6.
+My only discord id is 324198046504189953.
