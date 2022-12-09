@@ -16,6 +16,7 @@ I am gonna do a massive update at 25 stars and prob a massive gui update after 5
 Step 1: Download via this link: https://github.com/itssnee/discord-simple-token-checker/archive/refs/heads/main.zip
 Step 2: Make sure you already downloaded python (https://www.python.org/).
 Step 2 and a half: if you have a problem with the modules please run requirements.bat before starting the checker.py :]
+Step 2(still lol): select your language (german = de, english = en, russian = ru), if you don't speak any of these languages properly, english is the best choice.
 Step 3: Put your tokens into tokens.txt.
 Step 4: double left click checker.py.
 Step 5: enjoy.
