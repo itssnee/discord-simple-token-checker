@@ -12,6 +12,13 @@ https://discord.gg/WUjKp3ExC6
 # Information
 I am gonna do a massive update at 25 stars and prob a massive gui update after 50 stars :)
 
+# Features
+Check if the tokens you put into tokens.txt is valid or invalid.
+Save the valid tokens.
+User friendly style.
+Easy to use.
+Legit.
+
 # How to install/use
 Step 1: Download via this link: https://github.com/itssnee/discord-simple-token-checker/archive/refs/heads/main.zip
 Step 2: Make sure you already downloaded python (https://www.python.org/).
