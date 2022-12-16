@@ -1,4 +1,6 @@
 ![image](https://media.discordapp.net/attachments/1023911532108709898/1050507164990582934/image.png?width=823&height=432)
+# Important
+I don't speak every language but I used a translator so more people can use this project, if I translated something wrong please join my Discord and tell me.
 
 # Disclaimer
 you can buy the premium and better version at https://sensaltsshop.mysellix.io/product/639531a54d460 (recommended if you bulk check your tokens, please only check your own tokens.).
