@@ -33,7 +33,7 @@ Step 5: enjoy.
 
 # Why is there no source code?
 since many ppl would sell it and I don't want people to just replace my discord name and tag with their discord name and tag.
-if you think this is a virus you can check it with https://virustotal.com/
+if you think this is a virus you can check it with https://virustotal.com/ (or look at https://www.virustotal.com/gui/file-analysis/YWY2OTY2OTc0OTk4OWQyODhjOGM3NDU3OTE5ZTQyZWY6MTY3MTIyNzk1Ng==).
 Source Code will maybe release in the future.
 
 # Credits
