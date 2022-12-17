@@ -41,7 +41,7 @@ Made by Snee#1337 (I am Snee) and Sens#9448.
 https://discord.gg/WUjKp3ExC6.
 My only discord id is 324198046504189953.
 
-# Better Version
+# Better version
 ![image](https://media.discordapp.net/attachments/1050764462744948806/1053804123440558170/image.png)
 ![image](https://media.discordapp.net/attachments/1050764462744948806/1053803781516705872/image.png)
 # Where can you get the better version?
