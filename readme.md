@@ -44,5 +44,6 @@ My only discord id is 324198046504189953.
 # Better Version
 ![image](https://media.discordapp.net/attachments/1050764462744948806/1053804123440558170/image.png)
 ![image](https://media.discordapp.net/attachments/1050764462744948806/1053803781516705872/image.png)
+# Where can you get the better version?
 If you want the better (premium version) with an own license key, you can buy it at https://sensaltsshop.mysellix.io/product/639531a54d460
 it is verified by me. if you buy it from any other website you are most likely getting scammed.
