@@ -14,6 +14,8 @@ https://discord.gg/WUjKp3ExC6
 
 # Information
 I am gonna do a massive update at 25 stars and prob a massive gui update after 50 stars :)
+For the start.bat file to work, put it into any of the language folders.
+If you have any questions about this project, don't ask me via discord, read this text instead.
 
 # Features
 Check if the tokens you put into tokens.txt is valid or invalid.
