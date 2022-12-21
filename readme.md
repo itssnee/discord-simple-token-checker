@@ -3,7 +3,7 @@
 I don't speak every language but I used a translator so more people can use this project, if I translated something wrong please join my Discord and tell me.
 
 # Disclaimer
-you can buy the premium and better version at https://sensaltsshop.mysellix.io/product/639531a54d460 (recommended if you bulk check your tokens, please only check your own tokens.).
+you can buy the premium and better version at https://itssnee.mysellix.io/product/63a34a09426ca (recommended if you bulk check your tokens, please only check your own tokens.).
 Please don't use this code for any illegal purposes, I made this programm for fun and it shouldn't be abused, I am not responsible for the user's actions, this project is just a normal project to learn coding. Please don't skid or remake this project
 Plus skidding won't make you cool or a coder :)
 
